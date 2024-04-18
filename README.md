@@ -10,6 +10,7 @@
 
 <br>
 
+# Features:
 <details>
 <summary>+ Rage Bot</summary>
 <ul><li>- Rapid Fire</li>
